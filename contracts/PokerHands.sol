@@ -9,6 +9,6 @@ enum PokerHands
 	Straight,
 	FullHouse,
 	Flush,
-	FoureOfAKind,
+	FourOfAKind,
 	StraightFlush
 }

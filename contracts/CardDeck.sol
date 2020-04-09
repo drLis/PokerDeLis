@@ -20,3 +20,9 @@ enum RankSixPlus
 	King,
 	Ace
 }
+
+struct Card
+{
+	RankSixPlus rank;
+	Suit suit;
+}
